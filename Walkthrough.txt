@@ -1,0 +1,33 @@
+This walkthrough will not only tell you how to beat the game, but also how to get all 3 game overs.
+Remember to use the "look" command to look at everything if you are stuck. It can be very helpful
+
+
+"go north" into the prison cell
+"look bucket" to see a key
+"take key" from the bucket
+"go west"
+"use key" to unlock the door
+"go north" through the newly unlocked door
+"talk ogre" multiple times. The ogre will give you a hint in order to get through the maze
+"go east" into the maze
+In order to get through the maze the path is South, East, East, North, East, East.
+    (Game over) If you do not follow the path in the maze you will get a game over
+"go south" when you escape the maze
+"look door" to see it is blocked by rocks
+"take rocks" from in front of the door
+"use rocks" to break the window
+"go south" through the window
+"take firepoker" from the fireplace
+"user firepoker" to obtain the shield
+"go east" into the hallway
+    (Game over) "go east" into the room with angry guards to get a game over
+"look nightstand" to see the drawer
+"look drawer" to find a mirror
+"take mirror" from the drawer
+"go west" back into the foyer
+"go west" up the spiral staircase
+"look essence" I consider this the hardest puzzle in the game, and yes that was intended. A final challenge if you will
+"talk person" to start the battle with the wizard
+    (Game over) "use shield" to get a game over. I thought this would be the obvious choice and would be funny if you got a game over
+"use mirror" to win the game
+THE END
